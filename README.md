@@ -1,12 +1,13 @@
-### Welcome to the Drakenwolf curiosity Cage
+<h1>Welcome to the Drakenwolf curiosity Cave</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hans-haar)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DevDraken)
 
-//website soon!
+<h2>//website soon!</h2>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Drakenwolf.Drakenwolf)
 <div style="display: flex; flex-direction: row;">    
+        <img height="280em" align="right" src="./assets/images/dev.jpg"/>
     <div style="">
         <p>🔭 I’m currently working on: typescrippt/React</p>
         <p>I’m currently learning:  Threejs</p>
@@ -15,8 +16,14 @@
         <p>📫 How to reach me:  linkedin</p>
         <p>😄 Pronouns:he/him</p>
     </div>
-    <img height="280em" align="right" src="./assets/images/dev.jpg"/>
+
 </div>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
