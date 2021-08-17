@@ -1,5 +1,7 @@
 ### Welcome to the Drakenwolf curiosity Cage
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 - 🔭 I’m currently working on ... typescrippt/React
 - 🌱 I’m currently learning ... threejs
 - 👯 I’m looking to collaborate on ... crypto projects
