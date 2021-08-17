@@ -18,8 +18,7 @@
 
 <div style="display:flex; flex-directions:row;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drakenwolf&show_icons=true&theme=prussian&hide_border=true&&count_private=true&include_all_commits=true" />
-
-    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenwolf&langs_count=8&theme=prussian"/>
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenwolf&langs_count=8&theme=prussian"/>
 </div>
 
 
