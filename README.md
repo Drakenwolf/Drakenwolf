@@ -2,7 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hans-haar)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DevDraken)
+
 //website soon!
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Drakenwolf.Drakenwolf)
 <div style="display: flex; flex-direction: row;">    
     <div style="">
@@ -13,12 +15,12 @@
         <p>📫 How to reach me:  linkedin</p>
         <p>😄 Pronouns:he/him</p>
     </div>
-    <img height="280em" src="./assets/images/dev.jpg"/>
+    <img height="280em" align="right" src="./assets/images/dev.jpg"/>
 </div>
 
 <div style="display:flex; flex-directions:row;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drakenwolf&show_icons=true&theme=prussian&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenwolf&langs_count=8&theme=prussian"/>
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Drakenwolf&show_icons=true&theme=prussian&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenwolf&langs_count=8&theme=prussian"/>
 </div>
 
 
