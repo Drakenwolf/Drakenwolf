@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ... gatsbyjs
 - 💬 Ask me about ... ux=ui design in 3d
 - 📫 How to reach me: ... linkedin
-- 😄 Pronouns: ... heh/him
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...i eat watermelon with mustard sometimes
 
