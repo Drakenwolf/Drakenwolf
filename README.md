@@ -1,6 +1,6 @@
 ### Welcome to the Drakenwolf curiosity Cage
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?${Drakenwolf}.${33808109}=${Drakenwolf}.${33808109})
 
 - 🔭 I’m currently working on ... typescrippt/React
 - 🌱 I’m currently learning ... threejs
