@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Drakenwolf.Drakenwolf)
 <div style="display: flex; flex-direction: row;">    
-        <img height="280em" align="right" src="./assets/images/dev.jpg"/>
+    <img height="280em" align="right" src="./assets/images/dev.jpg"/>
     <div style="">
         <p>🔭 I’m currently working on: typescrippt/React</p>
         <p>I’m currently learning:  Threejs</p>
