@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: typescrippt/React
 - 🌱 I’m currently learning:  Threejs
 - 👯 I’m looking to collaborate on ... Blockchain projects
-- 💬 Ask me about:  ux=ui design in 3d
+- 💬 Ask me about:  ux/ui design in 3d
 - 📫 How to reach me:  linkedin
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns:he/him
 
