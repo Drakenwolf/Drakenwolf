@@ -17,4 +17,6 @@
 
 <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenwolf&langs_count=8&theme=prussian"/>
 
+<img height="280em" src="./assets/images/dev.jpg"/>
+
 <! –– Pending add wakatime info  ––>
