@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DevDraken)
 //website soon!
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Drakenwolf.Drakenwolf)
-<div style="display:flex; flex-directions:row;">
+<div style="display: flex; flex-direction: row;">    
     <div style="">
         <p>🔭 I’m currently working on: typescrippt/React</p>
         <p>I’m currently learning:  Threejs</p>
