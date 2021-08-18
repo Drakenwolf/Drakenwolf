@@ -11,7 +11,7 @@
     <div style="">
         <p>🔭 I’m currently working on: typescrippt/React</p>
         <p>I’m currently learning:  Threejs</p>
-        <p>👯 I’m looking to collaborate on ... Blockchain projects</p>
+        <p>👯 I’m looking to collaborate on: Blockchain projects</p>
         <p>💬 Ask me about:  ux/ui design in 3d</p>
         <p>📫 How to reach me:  linkedin</p>
         <p>😄 Pronouns:he/him</p>
