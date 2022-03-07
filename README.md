@@ -3,7 +3,7 @@
 Name: Hans Elías Martínez Haar
 Email: hans.haar6@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hans-haar)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hans-haar/)
 <h2>Blog: https://www.drakenwolf.com/</h2>
 <h2>Medium: https://medium.com/@drakenwolf </h2>
 
