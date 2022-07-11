@@ -12,7 +12,7 @@ Email: hans.haar6@gmail.com
 <div style="display: flex; flex-direction: row;">    
     <img height="280em" align="right" src="./assets/images/dev.jpg"/>
     <div style="">
-        <p>🔭 I’m currently working on: solidty smart contracts </p>
+        <p>🔭 I’m currently working on: solidty smart contracts and cairo </p>
         <p>I’m currently learning:  Machine learning</p>
         <p>👯 I’m looking to collaborate on: Blockchain projects</p>
         <p>💬 Ask me about:  Blockchain, smart contracts, dapps, solidity </p>
