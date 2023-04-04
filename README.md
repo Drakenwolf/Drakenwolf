@@ -1,7 +1,7 @@
 # Fullstack web3 developer - Smart contract developer
 
 # 💫 About Me:
-🔭 I am currently creating solutions on the web3 space as a full stack blockchain developer.<br>👯 I’m looking to collaborate on: Blockchain projects<br>💬 Ask me about:  Blockchain, smart contracts, dapps, solidity<br>📫 How to reach me:  linkedin<br>😄 Pronouns:he/him
+🔭 I am currently creating solutions on the web3 space as a full stack blockchain developer.<br>👯 I’m looking to collaborate on: Blockchain projects or Artificial Intelligence<br>💬 Ask me about:  Blockchain, smart contracts, dapps, solidity<br>📫 How to reach me:  linkedin<br>😄 Pronouns:he/him
 
 
 ## 🌐 Socials:
